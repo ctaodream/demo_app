@@ -43,8 +43,9 @@ group :development, :test do
   gem 'spring'
 
 
-  group :production do
-    gem 'pg', '~>0.15.1'
-  end
+  # group :production do
+  #   gem 'pg', '~>0.15.1'
+  # end
+  #
 end
 
